@@ -1,0 +1,49 @@
+body{
+    background: url(bfm.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.regbox2{
+
+    width: 30%;
+    margin:200px 500px 500px 500px;
+
+    border: 10px rgb(7, 46, 7) solid;
+
+    border-style: dotted;
+    border-radius:50px;
+
+}
+img {
+    border-radius: 50%;
+
+    width: 10%;
+}
+.c1{
+    margin:20px;
+}
+.c2{
+    margin:20px;
+}
+.c3{
+    margin:20px;
+}
+.c4{
+    margin:20px;
+}
+.c5{
+    margin:20px;
+}
+.c6{
+    margin:20px;
+}
+.c7{
+    margin:20px;
+}
+.c8{
+    margin:20px;
+}
+.c9{
+    text-align:center;
+}
+
